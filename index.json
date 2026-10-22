@@ -1,7 +1,7 @@
 {
   "schema": 1,
   "registry": "frontierengineer/agents",
-  "generated": "2026-10-22T04:52:52.270Z",
+  "generated": "2026-10-22T17:13:43.253Z",
   "agents": [
     {
       "id": "frontier/code-reviewer",
@@ -15,8 +15,7 @@
         "correctness"
       ],
       "author": "frontier",
-      "ratingUrl": "https://github.com/frontierengineer/agents/issues/1",
-      "votes": 0
+      "ratingUrl": "https://github.com/frontierengineer/agents/issues/new?labels=agent-rating&title=frontier%2Fcode-reviewer&body=Vote%20for%20the%20%22frontier%2Fcode-reviewer%22%20agent%20by%20adding%20a%20%F0%9F%91%8D%20reaction%20to%20this%20issue.%0A%0APlease%20keep%20to%20one%20rating%20issue%20per%20agent%20so%20the%20catalog%20can%20count%20votes."
     },
     {
       "id": "frontier/debugger",
@@ -30,8 +29,7 @@
         "investigation"
       ],
       "author": "frontier",
-      "ratingUrl": "https://github.com/frontierengineer/agents/issues/2",
-      "votes": 0
+      "ratingUrl": "https://github.com/frontierengineer/agents/issues/new?labels=agent-rating&title=frontier%2Fdebugger&body=Vote%20for%20the%20%22frontier%2Fdebugger%22%20agent%20by%20adding%20a%20%F0%9F%91%8D%20reaction%20to%20this%20issue.%0A%0APlease%20keep%20to%20one%20rating%20issue%20per%20agent%20so%20the%20catalog%20can%20count%20votes."
     },
     {
       "id": "frontier/docs-writer",
@@ -45,8 +43,7 @@
         "writing"
       ],
       "author": "frontier",
-      "ratingUrl": "https://github.com/frontierengineer/agents/issues/3",
-      "votes": 0
+      "ratingUrl": "https://github.com/frontierengineer/agents/issues/new?labels=agent-rating&title=frontier%2Fdocs-writer&body=Vote%20for%20the%20%22frontier%2Fdocs-writer%22%20agent%20by%20adding%20a%20%F0%9F%91%8D%20reaction%20to%20this%20issue.%0A%0APlease%20keep%20to%20one%20rating%20issue%20per%20agent%20so%20the%20catalog%20can%20count%20votes."
     },
     {
       "id": "frontier/refactorer",
@@ -60,8 +57,7 @@
         "quality"
       ],
       "author": "frontier",
-      "ratingUrl": "https://github.com/frontierengineer/agents/issues/4",
-      "votes": 0
+      "ratingUrl": "https://github.com/frontierengineer/agents/issues/new?labels=agent-rating&title=frontier%2Frefactorer&body=Vote%20for%20the%20%22frontier%2Frefactorer%22%20agent%20by%20adding%20a%20%F0%9F%91%8D%20reaction%20to%20this%20issue.%0A%0APlease%20keep%20to%20one%20rating%20issue%20per%20agent%20so%20the%20catalog%20can%20count%20votes."
     },
     {
       "id": "frontier/test-author",
@@ -75,8 +71,7 @@
         "quality"
       ],
       "author": "frontier",
-      "ratingUrl": "https://github.com/frontierengineer/agents/issues/5",
-      "votes": 0
+      "ratingUrl": "https://github.com/frontierengineer/agents/issues/new?labels=agent-rating&title=frontier%2Ftest-author&body=Vote%20for%20the%20%22frontier%2Ftest-author%22%20agent%20by%20adding%20a%20%F0%9F%91%8D%20reaction%20to%20this%20issue.%0A%0APlease%20keep%20to%20one%20rating%20issue%20per%20agent%20so%20the%20catalog%20can%20count%20votes."
     }
   ]
 }
